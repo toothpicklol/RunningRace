@@ -1,0 +1,12 @@
+name: RunningRace
+version: 1.0
+description: ya
+author: TP
+main: tw.mcark.runningrace.RunningRace
+api-version: 1.13
+depend: [ArkGame, ArkUtils]
+
+commands:
+  test:
+    description:
+    usage:
